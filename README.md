@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nooba nè con 👋
 
 <!--
 **Nooba2612/Nooba2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
